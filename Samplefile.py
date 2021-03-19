@@ -1,2 +1,2 @@
 #Samplefile.py
-print('This is a updated File')
+print('This is a sample File')
